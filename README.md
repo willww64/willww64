@@ -5,5 +5,5 @@
 - I'm a senior SRE
 - I'm a `Linux` & `OpenSource` enthusiast
 - I use `ArchLinux` & `NeoVim` for daily coding
-- I mainly code in `Python`, `Go`, `Bash`, and `YAML` 󰇸
+- I mainly code in `Python`, `Go`, `Bash`, and `YAML` 😞
 - I'm a liberal and I stand with Ukraine and against all dictatorships and terrorism.
